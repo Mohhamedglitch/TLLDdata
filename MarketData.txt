@@ -808,7 +808,7 @@ Monsters/Monster_claramel_rare
 -
 monster_epics:
 Monsters/Monster_noggin_epic_undof
-Monsters/Monster_epic_kayna_undof
+Monsters/Monster_kayna_epic_undof
 -
 decorations:
 Decoration/Decoration_test

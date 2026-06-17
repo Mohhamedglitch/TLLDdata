@@ -86,8 +86,8 @@ Monsters/Monster_noggin_epic_bio=Seemingly carved from the earth itself, Noggins
 Monsters/Monster_kayna=Kayna
 Monsters/Monster_kayna_bio=With a fire in its belly and inferno in its heart, the Kayna is always blowing its top in an eruption of joyful song. The juvenile Kayna is popular at parties, enthusiastically 
 roasting marshmallows for everyone.
-Monsters/Monster_epic_kayna=Epic Kayna
-Monsters/Monster_epic_kayna_bio=this is a placeholder.
+Monsters/Monster_epic_kayna_undof=Epic Kayna
+Monsters/Monster_epic_kayna_undof_bio=this is a placeholder.
 Monsters/Monster_fluoress=Fluoress
 Monsters/Monster_fluoress_bio=A fluoress may seem dim and dull, but that's just a facade. When in song with fellow monsters, Fluoress happily prods its dress of Fluorophyll, lighting up the darkness. While the reason for this strange reaction, as well as the origins of Fluorophyll, are quite a mystery, Fluoress gently reminds that one need not understand to appreciate. 
 Monsters/Monster_theremind=Theremind

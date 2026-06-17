@@ -806,6 +806,10 @@ Monsters/Monster_brasscuit_rare
 Monsters/Monster_koodahcane_rare
 Monsters/Monster_claramel_rare
 -
+monster_epics:
+Monsters/Monster_noggin_epic_undof
+Monsters/Monster_epic_kayna_undof
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1

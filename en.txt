@@ -81,8 +81,13 @@ Monsters/Monster_toejammer=Toe Jammer
 Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
 Monsters/Monster_noggin=Noggin
 Monsters/Monster_noggin_bio=Seemingly carved from the earth itself, Noggins share a certain pride in being one of the eldest natural monster lineages. For as long as there’s been soil to overturn, Noggins have been tumbling about the landscapes with an ever-iconic Thump! However, with a recent influx of monsters discovered to also be created via statues, some have questioned if the rocky exterior of the Noggin is indicative of some divine creation… though that’s too philosophical of a question for a Noggin to contemplate itself. After all, as is their namesake, a Noggin’s most noteworthy trait beyond their craggy carapace is an incredibly thick skull.
+Monsters/Monster_noggin_epic=Epic Noggin
+Monsters/Monster_noggin_epic_bio=Seemingly carved from the earth itself, Noggins share a certain pride in being one of the eldest natural monster lineages. For as long as there’s been soil to overturn, Noggins have been tumbling about the landscapes with an ever-iconic Thump! However, with a recent influx of monsters discovered to also be created via statues, some have questioned if the rocky exterior of the Noggin is indicative of some divine creation… though that’s too philosophical of a question for a Noggin to contemplate itself. After all, as is their namesake, a Noggin’s most noteworthy trait beyond their craggy carapace is an incredibly thick skull.
 Monsters/Monster_kayna=Kayna
-Monsters/Monster_kayna_bio=With a fire in its belly and inferno in its heart, the Kayna is always blowing its top in an eruption of joyful song. The juvenile Kayna is popular at parties, enthusiastically roasting marshmallows for everyone.
+Monsters/Monster_kayna_bio=With a fire in its belly and inferno in its heart, the Kayna is always blowing its top in an eruption of joyful song. The juvenile Kayna is popular at parties, enthusiastically 
+roasting marshmallows for everyone.
+Monsters/Monster_epic_kayna=Epic Kayna
+Monsters/Monster_epic_kayna_bio=this is a placeholder.
 Monsters/Monster_fluoress=Fluoress
 Monsters/Monster_fluoress_bio=A fluoress may seem dim and dull, but that's just a facade. When in song with fellow monsters, Fluoress happily prods its dress of Fluorophyll, lighting up the darkness. While the reason for this strange reaction, as well as the origins of Fluorophyll, are quite a mystery, Fluoress gently reminds that one need not understand to appreciate. 
 Monsters/Monster_theremind=Theremind
@@ -663,11 +668,17 @@ Monsters/Monster_kayna_undof_bio=The ancient Kayna was long thought lost to an e
 Monsters/Monster_kayna_rare_undof=Rare Kayna
 Monsters/Monster_kayna_rare_undof_bio=Bearers of the oldest Element of all, Rare Kaynas are an ancient breed from which all their Common cousins have sprung. Their intricate, tattoo-like carvings are bestowed upon them with great honor to represent their impressive age and crowing wisdom, eon after eon; you can imagine that the oldest Rare Kaynas are quite a sight! Yet no matter how old the original Fire Rare gets, the burning glow of the Fire Element never dims.
 
+Monsters/Monster_epic_kayna_undof=Epic Kayna
+Monsters/Monster_epic_kayna_bio=this is a placeholder.
+
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
 
 Monsters/Monster_noggin_rare_undof=Rare Noggin
 Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
+
+Monsters/Monster_noggin_epic_undof=Epic Noggin
+Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Epic Noggin has been earthed again. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Epic Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
 
 Monsters/Monster_fwog_undof=Fwog
 Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.

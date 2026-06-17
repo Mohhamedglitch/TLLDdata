@@ -246,6 +246,7 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
+Decoration/Cat
 Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy

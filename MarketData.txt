@@ -769,6 +769,8 @@ Monsters/Monster_jobo
 -
 monster_secret:
 Monsters/Monster_treble
+Monsters/Monster_noggin_epic_undof
+Monsters/Monster_kayna_epic_undof
 -
 monster_replacement:
 Monsters/Monster_tannout_undof Vortex=3
@@ -805,10 +807,6 @@ Monsters/Monster_marshflamo_rare
 Monsters/Monster_brasscuit_rare
 Monsters/Monster_koodahcane_rare
 Monsters/Monster_claramel_rare
--
-monster_epics:
-Monsters/Monster_noggin_epic_undof
-Monsters/Monster_kayna_epic_undof
 -
 decorations:
 Decoration/Decoration_test

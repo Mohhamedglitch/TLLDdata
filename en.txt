@@ -1191,7 +1191,6 @@ btn_shop_babyMomsters=Young Monsters
 btn_shop_secrets=Secret Monsters
 btn_shop_rares=Rare Monsters
 btn_shop_replacements=Replacement Monsters
-btn_shop_epics=Epic Monsters
 
 btn_move=Move
 btn_mute=Mute

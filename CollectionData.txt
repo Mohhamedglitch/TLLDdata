@@ -61,6 +61,7 @@ Monsters/Monster_yool_young
 Monsters/Monster_brump_young
 Monsters/Monster_jeeode_young
 Monsters/Monster_wibbler_young
+Monsters/Monster_cybop_young
 
 Monsters/Monster_hornacle
 Monsters/Monster_loodvigg
@@ -111,6 +112,9 @@ Monsters/Monster_rootitoot
 Monsters/Monster_trox
 Monsters/Monster_spurrit_desert
 Monsters/Monster_bisonorus
+Monsters/Monster_floogull
+Monsters/Monster_reedling
+Monsters/Monster_drummidary
 ;
 temmie:
 Monsters/Monster_mammott
@@ -152,6 +156,7 @@ Monsters/Monster_whimstlop_meduza
 Monsters/Monster_noggin_meduza
 Monsters/Monster_knucklehead_meduza
 Monsters/Monster_pummel_meduza
+Monsters/Monster_sox_meduza
 Monsters/Monster_meduza
 ;
 Candy:
@@ -217,6 +222,14 @@ Monsters/Monster_burrythm_rare_undof
 Monsters/Monster_wicka_undof
 Monsters/Monster_wicka_rare_undof
 
+Monsters/Monster_dipster_1_new
+Monsters/Monster_dipster_2_new
+Monsters/Monster_dipster_3_new
+Monsters/Monster_dipster_4_new
+Monsters/Monster_dipster_5_new
+Monsters/Monster_dipster_6_new
+Monsters/Monster_dipster_7_new
+
 Monsters/Monster_bone
 ;
 Calamity:
@@ -238,6 +251,8 @@ GM:
 Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
+Monsters/Monster_tabicrab
+Monsters/Monster_tweedleGM
 ;
 EgyptPipes:
 Monsters/Bonapetite

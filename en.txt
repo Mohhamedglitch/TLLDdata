@@ -161,8 +161,6 @@ Monsters/Monster_brump_young=Young Brump
 Monsters/Monster_brump_young_bio=Young Brump Bio
 Monsters/Monster_wibbler_young=Young Wubbox
 Monsters/Monster_wibbler_young_bio=Young Wubbox Bio
-Monsters/Monster_flowerning=Flowerning
-Monsters/Monster_flowerning_bio=Flowernings are wonderful little creatures from a very far away world that really love flowers. They use the magic inside flowers to grow even more flowers, which is pretty astonishing if you think about it.\n\nNo one really knows exactly how they do it. Some people say they can feel the magic inside every flower and help it spread. When a Flowerning is nearby, flowers start growing faster and gardens become enormous.\n\nSo if you ever see flowers appearing where there weren’t any before… a Flowerning was probably there. Just watch out for any double headed red flower...
 
 Decoration/Decoration_sign_air=Air Sign
 Decoration/Decoration_sign_candy=Candy Sign
@@ -301,6 +299,33 @@ Monsters/Monster_banno_new_bio=Banno is a vocalist of the legendary Cancer Choir
 
 Monsters/Monster_hyehehe=Hyehehe
 Monsters/Monster_hyehehe_bio=Hyehehe bio
+
+Monsters/Monster_floogull=Floogull
+Monsters/Monster_floogull_bio=Floogull bio
+
+Monsters/Monster_drummidary=Drummidary
+Monsters/Monster_drummidary_bio=Drummidary bio
+
+Monsters/Monster_cybop_young=Young Cybop
+Monsters/Monster_cybop_young_bio=Young Cybop bio
+
+Monsters/Monster_tweedleGM=Seabeak
+Monsters/Monster_tweedleGM_bio=Seabeak bio
+
+Monsters/Monster_dipster_1_new=Do
+Monsters/Monster_dipster_1_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_2_new=Re
+Monsters/Monster_dipster_2_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_3_new=Mi
+Monsters/Monster_dipster_3_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_4_new=Fa
+Monsters/Monster_dipster_4_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_5_new=Sol
+Monsters/Monster_dipster_5_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_6_new=La
+Monsters/Monster_dipster_6_new_bio=<ref>DipsterBio
+Monsters/Monster_dipster_7_new=Ti
+Monsters/Monster_dipster_7_new_bio=<ref>DipsterBio
 
 #ADULT OFFICIAL TRIPLES#
 Monsters/Monster_spunge=Spunge
@@ -914,7 +939,7 @@ Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
 Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
 
 Decoration/Dog=Dog
-Decoration/Dog_bio=Le Doggo, or rather - just "Dog", is a quite extraordinary creature, living in the depths of Hyddryd before moving to the Lost Landscapes, especially Terra of Organs, which it has found itself a good home in.
+Decoration/Dog_bio=Dog goD
 
 str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
@@ -1276,6 +1301,7 @@ goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 str_setting_credits=Credits
 
+str_credits_msm=TLL by:
 str_credits_main=TLLPS by:
 str_credits_execProd=Support:
 str_credits_art=Art:

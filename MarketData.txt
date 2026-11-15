@@ -774,8 +774,6 @@ Monsters/Monster_jobo
 -
 monster_secret:
 Monsters/Monster_treble
-Monsters/Monster_noggin_epic_undof
-Monsters/Monster_kayna_epic_undof
 -
 monster_replacement:
 Monsters/Monster_tannout_undof Vortex=3
@@ -805,9 +803,6 @@ Monsters/Monster_dipster_5_new
 Monsters/Monster_dipster_6_new
 Monsters/Monster_dipster_7_new
 -
-monsters_celestials:
-Monsters/Monster_bone
--
 monster_rares:
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_noggin_rare_undof
@@ -816,6 +811,7 @@ Monsters/Monster_knife_rare
 Monsters/Monster_sprinklate_rare
 Monsters/Monster_keytrus_rare
 Monsters/Monster_gobstomper_rare
+Monsters/Monster_stogg_undof_rare
 Monsters/Monster_marshflamo_rare
 Monsters/Monster_brasscuit_rare
 Monsters/Monster_koodahcane_rare

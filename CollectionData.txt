@@ -165,11 +165,11 @@ Monsters/Monster_noggin_undof
 Monsters/Monster_noggin_rare_undof
 Monsters/Monster_kayna_undof
 Monsters/Monster_kayna_rare_undof
-Monsters/Monster_kayna_epic_undof
 Monsters/Monster_gumtromp
 Monsters/Monster_gumtromp_rare
 Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
+Monsters/Monster_stogg_undof_rare
 Monsters/Monster_phangler_undof
 Monsters/Monster_marshflamo
 Monsters/Monster_koodahcane
@@ -229,8 +229,6 @@ Monsters/Monster_dipster_4_new
 Monsters/Monster_dipster_5_new
 Monsters/Monster_dipster_6_new
 Monsters/Monster_dipster_7_new
-
-Monsters/Monster_bone
 ;
 Calamity:
 Monsters/Monster_stogg_undof

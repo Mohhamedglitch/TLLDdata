@@ -246,7 +246,6 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
-Decoration/Cat
 Decoration/Decoration_spam
 Decoration/Decoration_sign_air
 Decoration/Decoration_sign_candy
@@ -772,6 +771,7 @@ Monsters/Monster_treble
 -
 monster_rares:
 Monsters/Monster_gumtromp_rare
+Monsters/Monster_stogg_undof_rare
 Monsters/Monster_noggin_rare_undof
 Monsters/Monster_kayna_rare_undof
 Monsters/Monster_knife_rare

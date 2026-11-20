@@ -19,6 +19,10 @@ Monsters/Monster_bridgit 1
 Monsters/Monster_phangler 1
 Monsters/Monster_frondley 1
 ;
+Wubbox Calamity
+Monsters/Monster_hyehehe 1
+
+;
 Maulch City
 Structures/Structure_bakery 2
 Decoration/Decoration_test1 2

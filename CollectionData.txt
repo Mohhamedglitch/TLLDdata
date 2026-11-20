@@ -244,6 +244,7 @@ Monsters/Monster_deedge
 Monsters/Monster_ffydill
 Monsters/Monster_blasoom
 Monsters/Monster_hyehehe
+Monsters/Monster_wubbox_calamity
 ;
 GM:
 Monsters/Monster_olga
